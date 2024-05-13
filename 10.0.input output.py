@@ -42,6 +42,7 @@ archivo_para_escribir.close()
 
 # Forma segura de leer y escribir archivos
 # Usando GESTOR DE CONTEXTO
+# Aquí no es necesario usar ".close()"
 
 usuarios = ["user1", "user2", "user3", "user4"]
 with open("./data/nombres/usuarios.txt", "a") as fname:

@@ -1,7 +1,7 @@
 # Created on Fri May  3 12:08:54 2024
 # @author: Usuario
 
-# 1) Ejercicio: convertir la lista en una lista de diccionarios
+# 1) Ejercicio: convertir la lista de listas a una lista de diccionarios
 
 from collections import Counter
 print('\n== Ejercicio 1 ==')
